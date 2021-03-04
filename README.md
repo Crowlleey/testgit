@@ -4,5 +4,5 @@ func a() {
  // aaaaa
 }
 func b() { 
-
+// b
 }
