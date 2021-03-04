@@ -4,5 +4,8 @@ func a() {
  // aaaaa
 }
 func b() { 
-// b
+// b chama c
+}
+func c() { 
+    // B+A
 }
